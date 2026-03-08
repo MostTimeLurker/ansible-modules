@@ -16,7 +16,7 @@ XAMPLES = r"""
 
 RETURN = r"""
 changed:
-  message: Whatever SonarQube said
+  message: Whatever GitLab said
   returned: always
   type: bool
   sample: true
